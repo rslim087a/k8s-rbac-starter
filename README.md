@@ -49,4 +49,4 @@ curl -k https://localhost:31000/grades -H "Authorization: Bearer $TOKEN"
 ```
 ## Become a Cloud and DevOps Engineer
 
-Learn every tool that matters: https://rayanslim.com
+Learn every tool that matters: [https://rslim087a.github.io/rayanslim](https://rslim087a.github.io/rayanslim)
